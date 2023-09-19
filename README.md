@@ -1,5 +1,5 @@
 # cmf_hft
-Trading simulator and Stoikov's paper algorithm tested on it. 
+Trading simulator and Stoikov's [paper](https://math.nyu.edu/~avellane/HighFrequencyTrading.pdf) algorithm tested on it. 
 Implemented during CMF Hardcore Labs' course on market making to conceptually understand basics of market trading with a flavour of market-making.
 
 ## Notes
